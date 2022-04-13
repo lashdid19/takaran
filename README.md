@@ -2,6 +2,8 @@
 
 Takaran adalah website yang berguna untuk menghitung takaran dalam memasak.
 
+Website : https://takaran.vercel.app/
+
 Jenis takaran :
 - Gelas
 - Sendok Makan (sdm)
