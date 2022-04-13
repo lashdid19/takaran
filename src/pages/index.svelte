@@ -10,7 +10,7 @@
 <Container>
   <Header/>
   <Body>
-    <p><b class="font-semibold">Takaran</b> by <Link to="/#">santuy.co</Link> adalah website yang berguna untuk menghitung takaran dalam memasak.</p>
+    <p><b class="font-semibold">Takaran</b> <!-- by <Link to="/#">santuy.co</Link> --> adalah website yang berguna untuk menghitung takaran dalam memasak.</p>
     <p>Contohnya seperti :</p>
     <List>Gelas</List>
     <List>Sendok Makan (sdm)</List>
